@@ -6,9 +6,6 @@
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Funcionalidades](#funcionalidades)
 - [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Contato](#contato)
 
 ## Tecnologias Utilizadas
 - **HTML5:** Estrutura semântica da página
